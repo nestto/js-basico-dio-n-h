@@ -1,9 +1,9 @@
 
-<img src="https://github.com/nestto/primeiroportfolio/assets/125527244/96d65865-d3c6-45e1-9f08-d1febf031216">
+<img src="https://github.com/nestto/js-basico-dio-n-h/assets/125527244/3acfd656-b744-4e5a-a2a7-0a5d2de6427c">
 
-Exercicio 
+ 
 ### 🔨 Funcionalidades do projeto
-Nesse projeto foi apresentado de forma simples e direta algumas funcionalidades básicas e fundamentais das ferramentas `HTML` e `CSS` .
+Nesse projeto foi apresentado a minha resolução para o primeiro desafio do bootcamp Dio | IFood.
 ### 💻Técnicas e tecnologias utilizadas
 -`JavaScript`: Tem papel fundamental para indicar a interação do usuário com a interface gráfica.
 #### 1️⃣ Desafio Classificador de nível de Herói
